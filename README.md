@@ -1,11 +1,11 @@
-# Deep Research Agent with OpenAI Agents SDK and Firecrawl
+# Deep Research Agent with GroqAI Agents SDK and Firecrawl
 
-A powerful research assistant that leverages OpenAI's Agents SDK and Firecrawl's deep research capabilities to perform comprehensive web research on any topic and any question.
+A powerful research assistant that leverages GroqAI's Agents SDK and Firecrawl's deep research capabilities to perform comprehensive web research on any topic and any question.
 
 ## Features
 
 - **Deep Web Research**: Automatically searches the web, extracts content, and synthesizes findings
-- **Enhanced Analysis**: Uses OpenAI's Agents SDK to elaborate on research findings with additional context and insights
+- **Enhanced Analysis**: Uses GroqAI's Agents SDK to elaborate on research findings with additional context and insights
 - **Interactive UI**: Clean Streamlit interface for easy interaction
 - **Downloadable Reports**: Export research findings as markdown files
 
@@ -20,7 +20,7 @@ A powerful research assistant that leverages OpenAI's Agents SDK and Firecrawl's
 ## Requirements
 
 - Python 3.8+
-- OpenAI API key
+- GroqAI API key
 - Firecrawl API key
 - Required Python packages (see `requirements.txt`)
 
@@ -41,11 +41,11 @@ A powerful research assistant that leverages OpenAI's Agents SDK and Firecrawl's
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run deep_research_openai.py
+   streamlit run deep_research_GroqAI.py
    ```
 
 2. Enter your API keys in the sidebar:
-   - OpenAI API key
+   - GroqAI API key
    - Firecrawl API key
 
 3. Enter your research topic in the main input field
